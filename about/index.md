@@ -1,25 +1,27 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
+share: false
 image:
-  feature: sample-image-2.jpg
+  feature: sample-image-2.png
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I aim to combine field measurements, climate datasets and modelling tools to solve real-world problems related to climate change and its impact in mountain and other remote regions. I have experience in academic and applied sectors.
 
-## Minimal Mistakes is all about:
+## SHORT BIO
+- PhD Subgrid numerical modelling, UZH.
+- MSc Environment and Development, University of Edinburgh.
+- BSc Environmental sciences, University of Aberdeen.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+## RESEARCH FOCUS
+- Application of numerical models in remote areas
+- Subgrid processes
+- Downscaling global climate datasets in mountains
+
+<a href="https://drive.google.com/file/d/0B5IDVy7OycK5U1dMMFBJV2RjcXc/view?usp=sharing">Access full CV</a>

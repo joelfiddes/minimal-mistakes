@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Joel Fiddes
+title:            Site Title
 locale:           en_US
 url:
 
@@ -41,23 +41,23 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Joel Fiddes
-  avatar: me.jpg
-  bio: "Research and monitoring in mountain regions"
-  email: joelfiddes@gmail.com
+  name: Your Name
+  avatar: bio-photo.jpg
+  bio: "Describe your self."
+  email:
   disqus-shortname:
   twitter: #username
   facebook: #username
   google:
-    plus: joelfiddes
+    plus: #username
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: joelfiddes
+  github: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: joelfiddes
+  linkedin: #username
   xing: #username
   instagram: #username
   lastfm: #username
@@ -69,10 +69,8 @@ owner:
   youtube: #username
   soundcloud: #username
   weibo: #username
-  flickr: jfiddes #username
+  flickr: #username
   codepen: #username
-  skype: joelfiddes
-
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
